@@ -16,7 +16,7 @@ This is a simple Python script that allows you to download YouTube videos and pl
 5. If you select `2` for playlist download, enter the playlist URL when prompted and each video in the playlist will be downloaded one by one.
 
 Note: The downloaded videos will be saved in the same directory as the script.
-This Project Made By Dr.Root( Bilal Chentouf ) 
+This Project Made By Nik0tino( Bilal Chentouf ) 
 Powered By Nextery Codehub
 mail : bilalchentouf102@gmail.com
 Enjoy downloading YouTube videos and playlists with ease using this script!
