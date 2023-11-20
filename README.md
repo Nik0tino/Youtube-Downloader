@@ -4,13 +4,13 @@ This is a simple Python script that allows you to download YouTube videos and pl
 
 ## Installation
 
-1. Clone the repository using `git clone https://github.com/MihawkDev/Youtube-Downloader.git`
+1. Clone the repository using `git clone https://github.com/Nik0tino/Youtube-Downloader.git`
 2. Make sure you have `pytube` installed. If not, you can install it using `pip install pytube`
 
 ## Usage
 
 1. Open the terminal or command prompt and navigate to the project directory.
-2. Run the script using `python youtube_downloader.py`
+2. Run the script using `python downloader.py`
 3. You will be prompted to select the type of download you want - either a single video or a playlist.
 4. If you select `1` for video download, enter the video URL when prompted and the download will start.
 5. If you select `2` for playlist download, enter the playlist URL when prompted and each video in the playlist will be downloaded one by one.
